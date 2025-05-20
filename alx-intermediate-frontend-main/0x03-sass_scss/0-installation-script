@@ -1,0 +1,10 @@
+# Installed Node.js from https://nodejs.org
+# Verified with:
+node -v
+npm -v
+
+# Installed Dart SASS via npm
+npm install sass
+
+# Checked version
+npx sass --version
